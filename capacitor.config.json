@@ -1,0 +1,8 @@
+{
+  "appId": "com.ascensao.pessoal",
+  "appName": "ASCENSÃO",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
